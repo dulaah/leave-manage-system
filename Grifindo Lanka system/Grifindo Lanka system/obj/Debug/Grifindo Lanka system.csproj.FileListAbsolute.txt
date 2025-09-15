@@ -1,0 +1,55 @@
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.AssemblyReference.cache
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.admin_login.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.Properties.Resources.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.GenerateResource.cache
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.CoreCompileInputs.cache
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.exe.config
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.exe
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.pdb
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo.09D3B34C.Up2Date
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.exe
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.pdb
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.emp_manageForm.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.toyMan_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.empLogin_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.loginRole_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.loading_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.leaveMan_adminForm.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.leaveReq_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.history_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.reports_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.adminDashboard_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.employeDashboard_form.resources
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\itextsharp.dll
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\itextsharp.xml
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.exe.config
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.exe
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\Grifindo Lanka system.pdb
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\itextsharp.dll
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\bin\Debug\itextsharp.xml
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.AssemblyReference.cache
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.adminDashboard_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.admin_login.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.empLogin_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.employeDashboard_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.emp_manageForm.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.history_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.leaveMan_adminForm.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.leaveReq_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.loading_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.loginRole_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.Properties.Resources.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.reports_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo_Lanka_system.toyMan_form.resources
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.GenerateResource.cache
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.csproj.CoreCompileInputs.cache
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo.09D3B34C.Up2Date
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.exe
+D:\Assignment\Programing\system\Grifindo Lanka system\Grifindo Lanka system\obj\Debug\Grifindo Lanka system.pdb

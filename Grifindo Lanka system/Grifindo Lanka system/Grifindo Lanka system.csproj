@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Grifindo_Lanka_system</RootNamespace>
+    <AssemblyName>Grifindo Lanka system</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>C:\Users\Asus\Desktop\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminDashboard_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDashboard_form.Designer.cs">
+      <DependentUpon>adminDashboard_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_login.Designer.cs">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empLogin_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empLogin_form.Designer.cs">
+      <DependentUpon>empLogin_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employeDashboard_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeDashboard_form.Designer.cs">
+      <DependentUpon>employeDashboard_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emp_manageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emp_manageForm.Designer.cs">
+      <DependentUpon>emp_manageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="history_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history_form.Designer.cs">
+      <DependentUpon>history_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="leaveMan_adminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="leaveMan_adminForm.Designer.cs">
+      <DependentUpon>leaveMan_adminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="leaveReq_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="leaveReq_form.Designer.cs">
+      <DependentUpon>leaveReq_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loading_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading_form.Designer.cs">
+      <DependentUpon>loading_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginRole_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginRole_form.Designer.cs">
+      <DependentUpon>loginRole_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reports_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reports_form.Designer.cs">
+      <DependentUpon>reports_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="toyMan_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="toyMan_form.Designer.cs">
+      <DependentUpon>toyMan_form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminDashboard_form.resx">
+      <DependentUpon>adminDashboard_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_login.resx">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empLogin_form.resx">
+      <DependentUpon>empLogin_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeDashboard_form.resx">
+      <DependentUpon>employeDashboard_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emp_manageForm.resx">
+      <DependentUpon>emp_manageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history_form.resx">
+      <DependentUpon>history_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="leaveMan_adminForm.resx">
+      <DependentUpon>leaveMan_adminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="leaveReq_form.resx">
+      <DependentUpon>leaveReq_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading_form.resx">
+      <DependentUpon>loading_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginRole_form.resx">
+      <DependentUpon>loginRole_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reports_form.resx">
+      <DependentUpon>reports_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="toyMan_form.resx">
+      <DependentUpon>toyMan_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
