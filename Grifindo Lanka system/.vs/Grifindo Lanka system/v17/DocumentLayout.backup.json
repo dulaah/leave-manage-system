@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Assignment\\Programing\\system\\Grifindo Lanka system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|D:\\Assignment\\Programing\\system\\Grifindo Lanka system\\grifindo lanka system\\admindashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|d:\\assignment\\programing\\system\\grifindo lanka system\\grifindo lanka system\\admindashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|solutionrelative:grifindo lanka system\\admindashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|solutionrelative:Grifindo Lanka system\\adminDashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|d:\\assignment\\programing\\system\\grifindo lanka system\\grifindo lanka system\\employedashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|D:\\Assignment\\Programing\\system\\Grifindo Lanka system\\grifindo lanka system\\employedashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C5E70C1-DE48-4FB9-A8DB-CCC930905B5E}|Grifindo Lanka system\\Grifindo Lanka system.csproj|solutionrelative:grifindo lanka system\\employedashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -193,8 +193,7 @@
               "RelativeToolTip": "Grifindo Lanka system\\adminDashboard_form.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:25:52.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T14:25:52.596Z"
             },
             {
               "$type": "Document",
@@ -205,8 +204,7 @@
               "ToolTip": "D:\\Assignment\\Programing\\system\\Grifindo Lanka system\\Grifindo Lanka system\\employeDashboard_form.cs [Design]",
               "RelativeToolTip": "Grifindo Lanka system\\employeDashboard_form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:19:35.076Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T05:19:35.076Z"
             },
             {
               "$type": "Document",
