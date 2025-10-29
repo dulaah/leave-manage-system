@@ -6,7 +6,7 @@ The system allows **employees** and **admins** to manage leave requests efficien
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Streamline leave application and approval processes.  
 - Provide transparency for employees to track their leave balances and history.  
 - Allow admins to manage employees, define rosters, and generate leave reports.  
